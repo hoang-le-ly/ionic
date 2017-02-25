@@ -1,6 +1,6 @@
 {
   "name": "ionic",
-  "app_id": "",
+  "app_id": "experiment",
   "v2": true,
   "typescript": true
 }

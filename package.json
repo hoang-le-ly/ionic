@@ -34,7 +34,6 @@
   },
   "cordovaPlugins": [
     "cordova-plugin-whitelist",
-    "cordova-plugin-device",
     "cordova-plugin-console",
     "cordova-plugin-statusbar",
     "cordova-plugin-splashscreen",
